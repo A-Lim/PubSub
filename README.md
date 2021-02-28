@@ -2,7 +2,7 @@
 PubSub Demo
 
 # Interplanetary Broadcast System (IBS)
-An interplanetary broadcasting system to send messages to different planets using publish subscribe design.
+An interplanetary broadcasting system to send messages to different planets using publish subscribe design. The (.exe) file is included in case the powershell is not working properly as expected. [Note: I'm aware it's not a good practice]
 
 ## Setup Guide
 1. Right click ClickMe.ps1 > **Run with Powershell** to build and run the console application
